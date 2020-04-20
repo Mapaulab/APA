@@ -1,2 +1,0 @@
-# main
-Conociendo el sistema
